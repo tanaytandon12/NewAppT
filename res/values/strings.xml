@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">NewAppT</string>
+    <string name="submit1">GOTO ACTIVITY 2</string>
+    <string name="submit2">GOTO ACTIVITY 1</string>
+	<string name="someText"> </string>
+</resources>
